@@ -9,7 +9,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "chai-spies": "^1.0.0",
-    "mocha": "^6.2.0",
+    "mocha": "^8.2.1",
     "mochawesome": "^4.0.1",
     "nyc": "^14.1.1"
   },
@@ -34,7 +34,7 @@
     "type": "git",
     "url": "git+https://github.com/stranger2626/mocha-unit-testing-example.git"
   },
-  "author": "Matsvei Murashka",
+  "author": "Hleb Iuko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/stranger2626/mocha-unit-testing-example/issues"
