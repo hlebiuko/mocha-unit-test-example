@@ -12,6 +12,7 @@ describe('factorialShort', function() {
         spy = chai.spy.on(factorial, 'factorialShort');
     });
 
+    
     afterEach(() => {
         factorial = null;
     });
